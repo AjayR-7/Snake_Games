@@ -14,3 +14,4 @@ A simple and interactive Snake Game built with HTML, CSS, and JavaScript. The ga
 2. Eat the food to grow longer and increase your score.
 3. Avoid hitting the walls or the snake's body.
 
+## Note : It is only compatable with pc
